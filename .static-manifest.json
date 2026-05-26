@@ -1,0 +1,12 @@
+{
+    "domain": "agenciaseoenmexico.mx",
+    "base_url": "http:\/\/agenciaseoenmexico.mx",
+    "pages": 195,
+    "assets": 1,
+    "total_files": 196,
+    "total_size_mb": 35.55,
+    "output_dir": "\/tmp\/static-export\/agenciaseoenmexico.mx",
+    "pages_failed": [],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 15:43:15"
+}
